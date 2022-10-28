@@ -1,0 +1,4 @@
+prottrans_all_oas_human_VH_seqs_ALL_cutoff90_*.txt
+*~
+output/*
+.cache
